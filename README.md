@@ -1,5 +1,5 @@
 ## Video games store
-Desktop trgovina videoigrama
+Desktop aplikacija s lokalnom bazom podataka za trgovinu videoigrama.
 
 
 ### Tehnologije i razvojni alati
