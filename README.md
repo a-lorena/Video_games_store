@@ -17,3 +17,4 @@ Desktop aplikacija s lokalnom bazom podataka za trgovinu videoigrama.
 - profil korisnika
 - narudžba novih i polovnih videoigri
 - prodaja polovnih videoigri
+- svaka narudžba mora biti odobrena od strane prodavača
