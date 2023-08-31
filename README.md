@@ -1,4 +1,5 @@
 ## Video games store
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/a-lorena/Video_games_store/blob/main/README.en.md)
 Desktop aplikacija s lokalnom bazom podataka za trgovinu videoigrama.
 
 
